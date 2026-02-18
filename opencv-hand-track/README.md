@@ -1,10 +1,10 @@
 ### Hand Detection & Gesture Recognition (MediaPipe Tasks)
+
+Este projeto utiliza a nova arquitetura MediaPipe Tasks do Google para realizar o rastreamento de mãos em tempo real via webcam e identificar gestos através da geometria das mãos com Python e OpenCV.
 <p align="center">
-    
 <img src="https://github.com/fnmiranda/python-libs/blob/main/opencv-hand-track/MediaPipe%20Tasks_screenshot_17.02.2026.png" alt="exemple" height="400"/>
 </p>
 
-Este projeto utiliza a nova arquitetura MediaPipe Tasks do Google para realizar o rastreamento de mãos em tempo real via webcam e identificar gestos através da geometria das mãos com Python e OpenCV.
 #### 🚀 Funcionalidades
 
     Detecção de até 2 mãos simultaneamente.
